@@ -1,0 +1,9 @@
+{
+	"font_size": 9,
+	"ignored_packages":
+	[
+		"Vintage",
+		"BracketHighlighter",
+		"BeautifyRuby"
+	]
+}
